@@ -135,5 +135,5 @@ Nguồn chính:
 - [x] §2: bảng early adopters vs hiện tại + dịch chuyển nối về mốc §1 + 4 forces
 - [x] §3: 3 dự đoán, mỗi cái có dự đoán + lập luận dẫn về §1–§2
 - [x] §4: AI log ≥ 3 hàng, có cột kiểm chứng
-- [ ] Tự mở lại toàn bộ link trong §1 (bắt buộc trước khi nộp)
-- [ ] Repo `Day16-Track1-2A202602499-LeThanhTung` đã tạo, chế độ Public, đã push memo.md
+- [x] Tự mở lại toàn bộ link trong §1 (bắt buộc trước khi nộp)
+- [x] Repo `Day16-Track1-2A202602499-LeThanhTung` đã tạo, chế độ Public, đã push memo.md
